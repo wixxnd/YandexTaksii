@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Yandex Sans Display';
-    src: url('assets/fonts/YandexSansDisplay-Regular.eot');
-    src: local('assets/fonts/Yandex Sans Display Regular'), local('assets/fonts/YandexSansDisplay-Regular'),
-        url('assets/fonts/YandexSansDisplay-Regular.eot?#iefix') format('embedded-opentype'),
-        url('assets/fonts/YandexSansDisplay-Regular.woff2') format('woff2'),
-        url('assets/fonts/YandexSansDisplay-Regular.woff') format('woff'),
-        url('assets/fonts/YandexSansDisplay-Regular.ttf') format('truetype');
+    src: url('../assets/fonts/YandexSansDisplay-Regular.eot');
+    src: local('../assets/fonts/Yandex Sans Display Regular'), local('../assets/fonts/YandexSansDisplay-Regular'),
+        url('../assets/fonts/YandexSansDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/YandexSansDisplay-Regular.woff2') format('woff2'),
+        url('../assets/fonts/YandexSansDisplay-Regular.woff') format('woff'),
+        url('../assets/fonts/YandexSansDisplay-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
